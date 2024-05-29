@@ -11,3 +11,6 @@ This code is followed by ICDM2023 "A TSICN-based Inferential Synthesis Method fo
   keywords={Focusing;Logic gates;Aging;Data models;Risk management;Data mining;Convolutional neural networks;Tree-based Neural Network;Inferential Synthesis;Credit Scoring},
   doi={10.1109/ICDM58522.2023.00113}}
 
+https://ieeexplore.ieee.org/document/10415729
+this is the  paper link.
+if you need the reference  get it.
