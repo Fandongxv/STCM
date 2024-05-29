@@ -1,0 +1,15 @@
+import numpy as np
+import torch
+import torch.optim as optim
+from torch.utils.data import DataLoader, TensorDataset
+import sys
+sys.path.append('e:\\Code\\STCM\\Data imputation\\SCIN\\module')
+#print(sys.path)
+from SCINet import SCINet, get_variable
+import pandas as pd
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
+import os
+os.environ['TF_GPU_ALLOCATOR'] = 'cuda_malloc_async'
+
+And all enveriments requirements has been imported at file.
+
