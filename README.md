@@ -14,8 +14,8 @@ This code is followed by ICDM2023 "A TSICN-based Inferential Synthesis Method fo
 https://ieeexplore.ieee.org/document/10415729
 this is the  paper link.
 if you need the reference  get it.
-# TabDDPM: Modelling Tabular Data with Diffusion Models
-This is the official code for our paper "TabDDPM: Modelling Tabular Data with Diffusion Models" ([paper](https://arxiv.org/abs/2209.15421))
+# A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring
+This is the official code for our paper "A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring" ([paper](https://ieeexplore.ieee.org/document/10415729))
 
 <!-- ## Results
 You can view all the results and build your own tables with this [notebook](notebooks/Reports.ipynb). -->
