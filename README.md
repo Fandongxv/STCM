@@ -1,35 +1,16 @@
-# STCM
-This code is followed by ICDM2023 "A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring"
-@INPROCEEDINGS{10415729,
-  author={Fanab, Dongxu and Feng, Xuanzhi and Jiang, Jinghe and Jiang, Yuming and Zhang, Le and Hu, Dasha},
-  booktitle={2023 IEEE International Conference on Data Mining (ICDM)}, 
-  title={A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={992-997},
-  keywords={Focusing;Logic gates;Aging;Data models;Risk management;Data mining;Convolutional neural networks;Tree-based Neural Network;Inferential Synthesis;Credit Scoring},
-  doi={10.1109/ICDM58522.2023.00113}}
-
-https://ieeexplore.ieee.org/document/10415729
-this is the  paper link.
-if you need the reference  get it.
 # A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring
 This is the official code for our paper "A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring" ([paper](https://ieeexplore.ieee.org/document/10415729))
-
-<!-- ## Results
-You can view all the results and build your own tables with this [notebook](notebooks/Reports.ipynb). -->
 
 ### Datasets
  The datasets used in our research are available at the following links:
  • Lending Club Loan Defaulters Prediction:
- www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/notebook
+ www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction/notebook.
  • Credit Card Fraud Detection:
- www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+ www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
  • ProsperLoan:
  www.kaggle.com/datasets/yousuf28/prosper-loan.
  • Give Me Some Credit:
- www.kaggle.com/c/GiveMeSomeCredit/overview
+ www.kaggle.com/c/GiveMeSomeCredit/overview.
 
 ### Reference
  Abdoli, M., Akbari, M., Shahrabi, J., 2023. Bagging supervised autoencoder classifier for credit scoring. Expert Systems with Applications 213,
