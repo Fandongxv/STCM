@@ -1,7 +1,7 @@
 # A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring
 This is the official code for our paper "A TSICN-based Inferential Synthesis Method for Class Imbalance in Credit Scoring" ([paper](https://ieeexplore.ieee.org/document/10415729))
 
-### Datasets
+## Datasets
  The datasets used in our research are available at the following links:
  
  • Lending Club Loan Defaulters Prediction:
@@ -16,7 +16,20 @@ This is the official code for our paper "A TSICN-based Inferential Synthesis Met
  • Give Me Some Credit:
  www.kaggle.com/c/GiveMeSomeCredit/overview.
 
-### Reference
+## Model
+![image](https://github.com/Fandongxv/STCM/assets/56950383/e15f20eb-a199-477a-b3b0-eac7b0a801a0)
+
+## Experiments
+![image](https://github.com/Fandongxv/STCM/assets/56950383/f49c04ea-ff6b-43d8-bb27-42a65f4bbf01)
+
+![image](https://github.com/Fandongxv/STCM/assets/56950383/5e419664-d7a5-4bd3-8c90-5d0280c5f315)
+
+![image](https://github.com/Fandongxv/STCM/assets/56950383/2e3f1364-ee16-404a-8f3a-f3c0a630adc2)
+
+![image](https://github.com/Fandongxv/STCM/assets/56950383/5955760b-92a0-4111-ad8a-9d7f7e8a3c06)
+
+
+## Reference
  Abdoli, M., Akbari, M., Shahrabi, J., 2023. Bagging supervised autoencoder classifier for credit scoring. Expert Systems with Applications 213,
  118991. https://doi.org/10.1016/j.eswa.2022.118991.
  
